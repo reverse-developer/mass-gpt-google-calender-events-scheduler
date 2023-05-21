@@ -14,7 +14,8 @@ service and execute any application you want when an event is coming up.
 gcalcli uses the [Google Calendar API version 3](https://developers.google.com/google-apps/calendar/).
 
 example prompt -
-Write that as a gcalcli command in the syntax format "gcalcli --calendar email@gmail.com quick "5/24/2023 5:00am-6:00am","Lunch"" for all the events
+Write that as a gcalcli command in the syntax format 
+gcalcli --calendar email@gmail.com quick "5/24/2023 5:00am-6:00am","Lunch" for all the events
 
 Requirements
 ------------
